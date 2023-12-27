@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pizza-counter-application/static/css/main.71c4a406.css",
+    "main.js": "/pizza-counter-application/static/js/main.61f52aa3.js",
+    "static/js/787.dbbb7fad.chunk.js": "/pizza-counter-application/static/js/787.dbbb7fad.chunk.js",
+    "static/media/pizza.png": "/pizza-counter-application/static/media/pizza.bb03b06fb6e5e573fd90.png",
+    "static/media/logo.svg": "/pizza-counter-application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pizza-counter-application/index.html",
+    "main.71c4a406.css.map": "/pizza-counter-application/static/css/main.71c4a406.css.map",
+    "main.61f52aa3.js.map": "/pizza-counter-application/static/js/main.61f52aa3.js.map",
+    "787.dbbb7fad.chunk.js.map": "/pizza-counter-application/static/js/787.dbbb7fad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c4a406.css",
+    "static/js/main.61f52aa3.js"
+  ]
+}
